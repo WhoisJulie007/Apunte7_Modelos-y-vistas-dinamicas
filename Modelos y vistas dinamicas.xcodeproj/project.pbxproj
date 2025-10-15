@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		355C15B42EA06B4D00862B8A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 355C159E2EA06B4C00862B8A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 355C15A52EA06B4C00862B8A;
+			remoteInfo = "Modelos y vistas dinamicas";
+		};
+		355C15BE2EA06B4D00862B8A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 355C159E2EA06B4C00862B8A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 355C15A52EA06B4C00862B8A;
+			remoteInfo = "Modelos y vistas dinamicas";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		355C15A62EA06B4C00862B8A /* Modelos y vistas dinamicas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Modelos y vistas dinamicas.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		355C15B32EA06B4D00862B8A /* Modelos y vistas dinamicasTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Modelos y vistas dinamicasTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		355C15BD2EA06B4D00862B8A /* Modelos y vistas dinamicasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Modelos y vistas dinamicasUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		355C15A82EA06B4C00862B8A /* Modelos y vistas dinamicas */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Modelos y vistas dinamicas";
+			sourceTree = "<group>";
+		};
+		355C15B62EA06B4D00862B8A /* Modelos y vistas dinamicasTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Modelos y vistas dinamicasTests";
+			sourceTree = "<group>";
+		};
+		355C15C02EA06B4D00862B8A /* Modelos y vistas dinamicasUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Modelos y vistas dinamicasUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		355C15A32EA06B4C00862B8A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		355C15B02EA06B4D00862B8A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		355C15BA2EA06B4D00862B8A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		355C159D2EA06B4C00862B8A = {
+			isa = PBXGroup;
+			children = (
+				355C15A82EA06B4C00862B8A /* Modelos y vistas dinamicas */,
+				355C15B62EA06B4D00862B8A /* Modelos y vistas dinamicasTests */,
+				355C15C02EA06B4D00862B8A /* Modelos y vistas dinamicasUITests */,
+				355C15A72EA06B4C00862B8A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		355C15A72EA06B4C00862B8A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				355C15A62EA06B4C00862B8A /* Modelos y vistas dinamicas.app */,
+				355C15B32EA06B4D00862B8A /* Modelos y vistas dinamicasTests.xctest */,
+				355C15BD2EA06B4D00862B8A /* Modelos y vistas dinamicasUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		355C15A52EA06B4C00862B8A /* Modelos y vistas dinamicas */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 355C15C72EA06B4D00862B8A /* Build configuration list for PBXNativeTarget "Modelos y vistas dinamicas" */;
+			buildPhases = (
+				355C15A22EA06B4C00862B8A /* Sources */,
+				355C15A32EA06B4C00862B8A /* Frameworks */,
+				355C15A42EA06B4C00862B8A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				355C15A82EA06B4C00862B8A /* Modelos y vistas dinamicas */,
+			);
+			name = "Modelos y vistas dinamicas";
+			packageProductDependencies = (
+			);
+			productName = "Modelos y vistas dinamicas";
+			productReference = 355C15A62EA06B4C00862B8A /* Modelos y vistas dinamicas.app */;
+			productType = "com.apple.product-type.application";
+		};
+		355C15B22EA06B4D00862B8A /* Modelos y vistas dinamicasTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 355C15CA2EA06B4D00862B8A /* Build configuration list for PBXNativeTarget "Modelos y vistas dinamicasTests" */;
+			buildPhases = (
+				355C15AF2EA06B4D00862B8A /* Sources */,
+				355C15B02EA06B4D00862B8A /* Frameworks */,
+				355C15B12EA06B4D00862B8A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				355C15B52EA06B4D00862B8A /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				355C15B62EA06B4D00862B8A /* Modelos y vistas dinamicasTests */,
+			);
+			name = "Modelos y vistas dinamicasTests";
+			packageProductDependencies = (
+			);
+			productName = "Modelos y vistas dinamicasTests";
+			productReference = 355C15B32EA06B4D00862B8A /* Modelos y vistas dinamicasTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		355C15BC2EA06B4D00862B8A /* Modelos y vistas dinamicasUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 355C15CD2EA06B4D00862B8A /* Build configuration list for PBXNativeTarget "Modelos y vistas dinamicasUITests" */;
+			buildPhases = (
+				355C15B92EA06B4D00862B8A /* Sources */,
+				355C15BA2EA06B4D00862B8A /* Frameworks */,
+				355C15BB2EA06B4D00862B8A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				355C15BF2EA06B4D00862B8A /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				355C15C02EA06B4D00862B8A /* Modelos y vistas dinamicasUITests */,
+			);
+			name = "Modelos y vistas dinamicasUITests";
+			packageProductDependencies = (
+			);
+			productName = "Modelos y vistas dinamicasUITests";
+			productReference = 355C15BD2EA06B4D00862B8A /* Modelos y vistas dinamicasUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		355C159E2EA06B4C00862B8A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					355C15A52EA06B4C00862B8A = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					355C15B22EA06B4D00862B8A = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 355C15A52EA06B4C00862B8A;
+					};
+					355C15BC2EA06B4D00862B8A = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 355C15A52EA06B4C00862B8A;
+					};
+				};
+			};
+			buildConfigurationList = 355C15A12EA06B4C00862B8A /* Build configuration list for PBXProject "Modelos y vistas dinamicas" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 355C159D2EA06B4C00862B8A;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 355C15A72EA06B4C00862B8A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				355C15A52EA06B4C00862B8A /* Modelos y vistas dinamicas */,
+				355C15B22EA06B4D00862B8A /* Modelos y vistas dinamicasTests */,
+				355C15BC2EA06B4D00862B8A /* Modelos y vistas dinamicasUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		355C15A42EA06B4C00862B8A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		355C15B12EA06B4D00862B8A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		355C15BB2EA06B4D00862B8A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		355C15A22EA06B4C00862B8A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		355C15AF2EA06B4D00862B8A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		355C15B92EA06B4D00862B8A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		355C15B52EA06B4D00862B8A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 355C15A52EA06B4C00862B8A /* Modelos y vistas dinamicas */;
+			targetProxy = 355C15B42EA06B4D00862B8A /* PBXContainerItemProxy */;
+		};
+		355C15BF2EA06B4D00862B8A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 355C15A52EA06B4C00862B8A /* Modelos y vistas dinamicas */;
+			targetProxy = 355C15BE2EA06B4D00862B8A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		355C15C52EA06B4D00862B8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 8S6CG923B7;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		355C15C62EA06B4D00862B8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 8S6CG923B7;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		355C15C82EA06B4D00862B8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8S6CG923B7;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "iest.Modelos-y-vistas-dinamicas";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		355C15C92EA06B4D00862B8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8S6CG923B7;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "iest.Modelos-y-vistas-dinamicas";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		355C15CB2EA06B4D00862B8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8S6CG923B7;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "iest.Modelos-y-vistas-dinamicasTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Modelos y vistas dinamicas.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Modelos y vistas dinamicas";
+			};
+			name = Debug;
+		};
+		355C15CC2EA06B4D00862B8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8S6CG923B7;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "iest.Modelos-y-vistas-dinamicasTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Modelos y vistas dinamicas.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Modelos y vistas dinamicas";
+			};
+			name = Release;
+		};
+		355C15CE2EA06B4D00862B8A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8S6CG923B7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "iest.Modelos-y-vistas-dinamicasUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Modelos y vistas dinamicas";
+			};
+			name = Debug;
+		};
+		355C15CF2EA06B4D00862B8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8S6CG923B7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "iest.Modelos-y-vistas-dinamicasUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Modelos y vistas dinamicas";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		355C15A12EA06B4C00862B8A /* Build configuration list for PBXProject "Modelos y vistas dinamicas" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				355C15C52EA06B4D00862B8A /* Debug */,
+				355C15C62EA06B4D00862B8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		355C15C72EA06B4D00862B8A /* Build configuration list for PBXNativeTarget "Modelos y vistas dinamicas" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				355C15C82EA06B4D00862B8A /* Debug */,
+				355C15C92EA06B4D00862B8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		355C15CA2EA06B4D00862B8A /* Build configuration list for PBXNativeTarget "Modelos y vistas dinamicasTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				355C15CB2EA06B4D00862B8A /* Debug */,
+				355C15CC2EA06B4D00862B8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		355C15CD2EA06B4D00862B8A /* Build configuration list for PBXNativeTarget "Modelos y vistas dinamicasUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				355C15CE2EA06B4D00862B8A /* Debug */,
+				355C15CF2EA06B4D00862B8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 355C159E2EA06B4C00862B8A /* Project object */;
+}
