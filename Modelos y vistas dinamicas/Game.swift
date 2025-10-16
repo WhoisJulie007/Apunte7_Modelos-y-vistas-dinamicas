@@ -14,5 +14,6 @@ struct Game : Identifiable {
     let name: String
     let console: String
     let price: Float
+    let uuid: UUID = UUID()
 }
 
