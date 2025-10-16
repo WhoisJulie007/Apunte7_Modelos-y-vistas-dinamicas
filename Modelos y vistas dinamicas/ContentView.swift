@@ -8,16 +8,28 @@
 import SwiftUI
 
 struct ContentView: View {
+    let gameVM: GamesViewModel = GamesViewModel()
+    
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            List {
+                ForEach(gameVM.dummyData()) { game in
+                                CardView(image: game.image, name: game.name, console: game.console, price: String(game.price))
+                                    .padding(.trailing)
+                                    .background(Color("cardColor"))
+                                    .cornerRadius(15)
+                                    .padding(4)
+//                                   
+                                
+                            }
+                        }
+
+                
+            }
+            
         }
-        .padding()
     }
-}
+
 
 #Preview {
     ContentView()
